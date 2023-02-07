@@ -1,0 +1,16 @@
+/wp-admin/
+/wp-content/languages/
+/wp-content/plugins/
+/wp-content/upgrades/
+/wp-content/uploads/
+/wp-content/index.php
+/wp-includes/
+/.htaccess
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+*.log
+# Ignore themes starting with twenty
+/wp-content/themes/twenty*/
